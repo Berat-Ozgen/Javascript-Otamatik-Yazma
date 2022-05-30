@@ -1,0 +1,1 @@
+# Javascirpt otamatik yazi yazma
